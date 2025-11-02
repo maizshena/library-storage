@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💀 A Wild Next.js Project
 
 > “A wild Next.js project made by a mentally unstable programmer.”  
@@ -85,3 +86,6 @@ Feel free to use, break, and rebuild.
 
 If it breaks, you probably forgot a semicolon or angered the JavaScript gods.  
 Either way — happy coding!
+=======
+# auth-login
+>>>>>>> 6db57825f6689fb2524a033f0e91f3e5057581eb
